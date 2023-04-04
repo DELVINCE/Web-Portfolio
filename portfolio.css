@@ -5,7 +5,7 @@
     font-weight: 400;
     font-size: 125px;
     line-height: 129px;
-    text-align: center;
+    text-align: left;
 }
 
 .Porfolio-info button{
@@ -28,5 +28,4 @@
 
 .Porfolio-info > button:hover{
     transform: scale(1.2);
-    background-image:  red;
 }
